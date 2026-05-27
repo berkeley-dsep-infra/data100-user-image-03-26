@@ -35,6 +35,8 @@ dependencies:
   # Spring 2024 Econ 148 Packages
   - geopandas==1.1.0
   - geopy==2.4.1
+  # Fix the nodejs version to be compatible with the base image vscode installation.
+  - nodejs=22.22.*
 
   # pip installed pacakges, conda preferred
   - pip:
