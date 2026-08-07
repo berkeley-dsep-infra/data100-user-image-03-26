@@ -33,7 +33,7 @@ dependencies:
   - tensorflow-cpu==2.17.0
   - tf-keras==2.17.0
   
-  # # Spring 2024 data 100
+  # Spring 2024 data 100
   - cpuonly==2.0
   - pytorch==2.5.1
   - transformers==4.52.4
